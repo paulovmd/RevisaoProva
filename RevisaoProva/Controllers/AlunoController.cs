@@ -42,6 +42,7 @@ namespace RevisaoProva.Controllers
 
             resultApplication.Success = true; 
             resultApplication.Aluno = result;
+            resultApplication.Message = "Registro encontrado com sucesso!";
             return Ok(resultApplication);
         }
 
@@ -103,7 +104,7 @@ namespace RevisaoProva.Controllers
             }
         }
 
-        // DELETE api/<AlunoController>/5
+        // DELETE api/<AlunoController>/Excluir/5
         [HttpDelete("Excluir({id})")]
         public async Task<IActionResult> Excluir(int id)
         {

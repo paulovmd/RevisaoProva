@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Vvilpxbg1l0yCBYf0ah9ru8VrTM2LL/Cjjr+9foypi0=",
+  "Hash": "HhfYalGh+0qFLA9gtzc4lnzAetM5johLEk5+W4clagU=",
   "Source": "RevisaoProva",
   "BasePath": "_content/RevisaoProva",
   "Mode": "Default",
@@ -47,10 +47,10 @@
       "OriginalItemSpec": "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Documents\\PauloVinicius\\GTI\\Nova pasta\\RevisaoProva\\RevisaoProva\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RevisaoProva.styles.css",
+      "Identity": "C:\\Users\\Aluno\\Documents\\PauloVinicius\\Visual Studio Projects\\RevisaoProva\\RevisaoProva\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RevisaoProva.styles.css",
       "SourceId": "RevisaoProva",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aluno\\Documents\\PauloVinicius\\GTI\\Nova pasta\\RevisaoProva\\RevisaoProva\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Documents\\PauloVinicius\\Visual Studio Projects\\RevisaoProva\\RevisaoProva\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/RevisaoProva",
       "RelativePath": "RevisaoProva.styles.css",
       "AssetKind": "All",
@@ -63,7 +63,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aluno\\Documents\\PauloVinicius\\GTI\\Nova pasta\\RevisaoProva\\RevisaoProva\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RevisaoProva.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Aluno\\Documents\\PauloVinicius\\Visual Studio Projects\\RevisaoProva\\RevisaoProva\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RevisaoProva.styles.css"
     }
   ]
 }

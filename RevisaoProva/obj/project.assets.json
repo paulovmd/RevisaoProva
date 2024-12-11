@@ -8114,11 +8114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Documents\\PauloVinicius\\GTI\\Nova pasta\\RevisaoProva\\RevisaoProva\\RevisaoProva.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Documents\\PauloVinicius\\Visual Studio Projects\\RevisaoProva\\RevisaoProva\\RevisaoProva.csproj",
       "projectName": "RevisaoProva",
-      "projectPath": "C:\\Users\\Aluno\\Documents\\PauloVinicius\\GTI\\Nova pasta\\RevisaoProva\\RevisaoProva\\RevisaoProva.csproj",
+      "projectPath": "C:\\Users\\Aluno\\Documents\\PauloVinicius\\Visual Studio Projects\\RevisaoProva\\RevisaoProva\\RevisaoProva.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Documents\\PauloVinicius\\GTI\\Nova pasta\\RevisaoProva\\RevisaoProva\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\Documents\\PauloVinicius\\Visual Studio Projects\\RevisaoProva\\RevisaoProva\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
